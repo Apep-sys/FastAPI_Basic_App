@@ -1,5 +1,5 @@
 # FastAPI_Basic_App
-📝 Basic application of important FastAPI concepts, such assecurity, user models, path &amp; query parameters, HTTP methods etc., following the standard design model.
+📝 Basic application of important FastAPI concepts, such as security, user models, path &amp; query parameters, HTTP methods etc., following the standard design model.
 
 ✅ This project allows me the space and freedom to test and learn FastAPI on my own terms. The files within the project represent the concepts I have pursued and understood.
 
